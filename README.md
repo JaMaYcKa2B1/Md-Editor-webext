@@ -1,2 +1,2 @@
 # Md-Editor-webext
-This extension lets the user perform various simple operations With A Github Flavored Markdown Editor
+This extension allows the user to perform many simple operations in addition to pro Markdown editor
